@@ -1,0 +1,5 @@
+Machine learning is a branch of artificial intelligence.
+Machine learning models learn patterns from data.
+Supervised learning uses labeled datasets for training.
+Popular machine learning libraries include scikit learn and tensorflow.
+Machine learning is widely applied in recommendation systems.

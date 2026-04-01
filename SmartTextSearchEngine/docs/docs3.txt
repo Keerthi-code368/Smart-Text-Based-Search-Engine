@@ -1,0 +1,5 @@
+Search engines index documents to retrieve relevant information.
+Text preprocessing is important in information retrieval systems.
+Ranking algorithms help prioritize search results.
+Efficient data structures improve search performance.
+Java collections help in building scalable search systems.

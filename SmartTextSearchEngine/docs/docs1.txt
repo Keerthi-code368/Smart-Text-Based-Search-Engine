@@ -1,0 +1,5 @@
+Java is a high level object oriented programming language.
+Java is widely used in backend development and enterprise applications.
+The Java collections framework provides efficient data structures.
+Object oriented concepts like inheritance and polymorphism are core to Java.
+Many scalable systems are built using Java and backend frameworks.
